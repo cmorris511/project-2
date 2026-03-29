@@ -63,14 +63,14 @@ header p {
 
 #trails h2 {
     text-align: center;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Indie Flower', cursive;
     font-size: 2rem;
     margin-bottom: 30px;
     color: #0a4a26;
 }
 
 #trails article {
-    background-color: rgb(235, 229, 167);
+    background-color: rgb(176, 174, 152);
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
