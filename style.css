@@ -36,6 +36,35 @@ header p {
     font-size: 1.5rem;
     text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
 }
+
+/* Navigation Section */ 
+.main-nav {
+    text-align: center;         /* center the links */
+    background-color: #2E8B57;  /* same as header for consistency */
+    padding: 10px 0;            /* some vertical padding */
+}
+
+.main-nav a {
+    color: white;               /* white links */
+    text-decoration: none;      /* remove underline */
+    margin: 0 15px;             /* space between links */
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    transition: color 0.3s;
+}
+
+.main-nav a:hover {
+    color: #1e90ff;             /* hover effect */
+}
+
+.main-nav {
+    position: sticky;
+    top: 0;
+    z-index: 100; /* stay on top of other elements */
+}
+
+
+
 /* Intro Section */
 #intro {
     text-align: center;
