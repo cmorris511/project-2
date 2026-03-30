@@ -40,7 +40,7 @@ header p {
 /* Navigation Section */ 
 .main-nav {
     text-align: center;         /* center the links */
-    background-color: #2E8B57;  /* same as header for consistency */
+    background-color: #0a4a26;  /* same as header for consistency */
     padding: 10px 0;            /* some vertical padding */
 }
 
@@ -54,7 +54,7 @@ header p {
 }
 
 .main-nav a:hover {
-    color: #1e90ff;             /* hover effect */
+    color: #9fe4ae;             /* hover effect */
 }
 
 .main-nav {
